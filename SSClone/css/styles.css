@@ -1,0 +1,63 @@
+a,
+a:hover,
+a:active,
+a:visited,
+a:focus {
+  text-decoration: none;
+}
+
+.bg{
+  background-image: url('../images/ssbackground.jpeg');
+}
+
+.logo > img {
+  width: 65px !important;
+}
+
+.color-green {
+  color: #28a745;
+}
+
+.bg-brown{
+  background-color: #BF896B;
+}
+
+.bg-grey {
+  background-color: #cfd0d2;
+}
+
+.w-10{
+  width: 10%;
+}
+
+.rounded-X2{
+  border-radius: 16px;
+}
+
+.weight-900{
+  font-weight: 900;
+}
+
+.img-height{
+  height: 30px;
+}
+
+.main-logo{
+  width: 230px;
+}
+
+.border-8{
+  border:8px solid white;
+}
+
+.border-bottom-1{
+  border-bottom: 1px solid grey;
+}
+
+.sm-font{
+  font-size: 12px;
+}
+
+.bg-shadow{
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
